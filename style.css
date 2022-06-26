@@ -149,7 +149,10 @@ p{
     }
 
     .tit{
-        font-size: 15px;
+        display: none;
+        
+
+        }
 
 
 
